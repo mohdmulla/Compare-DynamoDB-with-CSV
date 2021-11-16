@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.713.0",
+    "aws-sdk": "^2.814.0",
     "csv-parse": "^4.10.1",
     "csv-writer": "^1.6.0"
   },
